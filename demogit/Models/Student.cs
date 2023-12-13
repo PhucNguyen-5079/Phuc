@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 namespace demogit.Models
 {
     internal class Student
+
     {
         public int Id { get; set; }
+
+    public int MSSV { get; set; }
+
     }
 }
