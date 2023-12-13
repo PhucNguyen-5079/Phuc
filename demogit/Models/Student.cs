@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace demogit.Models
 {
     internal class Student
-    {
-        public int MSSV { get; set; }
+    {public int MSSV { get; set; }
     }
 }
